@@ -1,11 +1,8 @@
 # Tugas 1 Pemograman Terstruktur
-1. Saya mengikuti praktikum di mata kuliah Pemrograman terstruktur pertemuan pertama. Praktikum ini bertujuan untuk memperkenalkan kami dengan bahasa pemograman javascript. 
-
-Saat pertama kali mulai praktikum, saya merasa sangat canggung dengan bahasa pemograman javascript. Namun, dengan bantuan pembimbing praktikum dan teman-teman sekelas, saya mulai memahami bagaimana menjalankan javascript di browser dan juga di node js.
-
-Saya menghadapi beberapa kesulitan selama praktikum, terutama saat mencoba memunculkan 
+1. Saya mengikuti praktikum di mata kuliah Pemrograman terstruktur pertemuan pertama. Praktikum ini bertujuan untuk memperkenalkan kami dengan bahasa pemograman javascript. Saat pertama kali mulai praktikum, saya merasa sangat canggung dengan bahasa pemograman javascript. Namun, dengan bantuan pembimbing praktikum dan teman-teman sekelas, saya mulai memahami bagaimana menjalankan javascript di browser dan juga di node js. Saya menghadapi beberapa kesulitan selama praktikum, terutama saat mencoba memunculkan 
 ``` javacript
 console.log("Hello World")```
+
 Namun, dengan bantuan pembimbing praktikum dan teman-teman sekelas, saya akhirnya bisa mengatasi kesulitan tersebut dengan mengsave file code yang saya tulis.
 
 2. Adapun kelebihan dan kekurangan menggunakan browser dan Node.js adalah sebagai berikut : 
