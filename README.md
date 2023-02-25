@@ -6,7 +6,7 @@ console.log("Hello World")
 
 ```
 
-Namun, dengan bantuan pembimbing praktikum dan teman-teman sekelas, saya akhirnya bisa mengatasi kesulitan tersebut dengan mengsave file code yang saya tulis.
+   Namun, dengan bantuan pembimbing praktikum dan teman-teman sekelas, saya akhirnya bisa mengatasi kesulitan tersebut dengan mengsave file code yang saya tulis.
 
 2. Adapun kelebihan dan kekurangan menggunakan browser dan Node.js adalah sebagai berikut : 
 
