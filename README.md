@@ -56,4 +56,3 @@ console.log(randomQuote);
 
 selanjutnya apakah yang terjadi jika secara terus menerus hanya menjalankan dua baris terakhir? 
 Jika hanya dua baris terakhir yang diulang terus menerus, maka hanya akan mencetak kutipan acak di terminal secara berulang-ulang.
-![Uploading Jepretan Layar 2023-02-25 pukul 20.39.25.png…]()
